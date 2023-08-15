@@ -3,17 +3,17 @@
   "name": "Easy access to free crypto earnings",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "rangelogo.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "capitalclub.jpeg",
+      "src": "rangelogo.jpeg",
       "type": "image/jpeg",
       "sizes": "192x192"
     },
     {
-      "src": "capitalclub.jpeg",
+      "src": "rangelogo.jpeg",
       "type": "image/jpeg",
       "sizes": "512x512"
     }

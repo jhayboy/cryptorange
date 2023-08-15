@@ -47,7 +47,7 @@ function App() {
       </div>
 
       <div className='h-full flex flex-col justify-center items-center'>
-        <div className='bg-white h-24 w-24 rounded-full'><img src='/capitalclub.jpeg' alt=''/></div>
+        <div className='bg-white h-24 w-24 rounded-full'><img src='/rangelogo.jpeg' alt=''/></div>
         <p className='text-white font-bold text-2xl pt-3'>Crypto Range</p>
         <p className='text-xl pt-2 text-center text-gray-500'>Crypto Update 
 AI & Tech
