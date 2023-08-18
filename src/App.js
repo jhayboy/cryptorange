@@ -62,7 +62,11 @@ For Kings Only 👑</p>
       </div>
 
       <div className='w-full flex flex-col gap-3 mt-5'>
-        
+        <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
+          <img className="rounded-full p-2 w-14 h-14 " src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnVK4ONSYeJmtdyhwO33XVx9gNC1mSLJt_g&usqp=CAU' alt='logo'/>
+          <a href='https://ngawin.com/c-O312c8F7?lang=en' className='font-semibold text-lg'>Ngawin</a>
+          <BsThreeDots className='text-lg text-white'/>
+        </div>
 
         <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
           <img className="rounded-full p-2 w-14 h-14" src='https://miro.medium.com/v2/resize:fit:658/0*h-_lr2umnOnqPJAH.png' alt='logo'/>
