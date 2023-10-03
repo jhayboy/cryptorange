@@ -51,8 +51,7 @@ function App() {
         <p className='text-white font-bold text-2xl pt-3'>Crypto Range</p>
         <p className='text-xl pt-2 text-center text-gray-500'>Crypto Update 
 AI & Tech
-Stay ahead of 99% of people
-For Kings Only 👑</p>
+Stay ahead of 99% of people</p>
         <div className='text-white flex gap-3 pt-2'>
           <a href='www.tiktok.com/@crypto.range'><RiTiktokLine className='text-2xl'/></a>
           {/* <a href='https://wa.me/+2349013779517'><TfiEmail className='text-2xl'/></a> */}
@@ -61,6 +60,12 @@ For Kings Only 👑</p>
         </div>
       </div>
 
+      <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
+          <img className="rounded-full p-2 w-14 h-14 " src='https://play-lh.googleusercontent.com/peecVpF209G33-d_IKTKHvD1Dm5ss5H_sdsSiGr_YIIoK7lMQThyACX-VJSuTJuUmMI=w240-h480-rw' alt='logo'/>
+          <a href='https://gee.bio/register?k=0x2098C' className='font-semibold text-lg'>GEE</a>
+          <BsThreeDots className='text-lg text-white'/>
+        </div>
+
       <div className='w-full flex flex-col gap-3 mt-5'>
         <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
           <img className="rounded-full p-2 w-14 h-14 " src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnVK4ONSYeJmtdyhwO33XVx9gNC1mSLJt_g&usqp=CAU' alt='logo'/>
@@ -68,11 +73,7 @@ For Kings Only 👑</p>
           <BsThreeDots className='text-lg text-white'/>
         </div>
 
-        <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
-          <img className="rounded-full p-2 w-14 h-14" src='https://miro.medium.com/v2/resize:fit:658/0*h-_lr2umnOnqPJAH.png' alt='logo'/>
-          <a href='https://www.catly.io/mobile/#/pages/cat?rid=99758' className='font-semibold text-lg'>Catly Airdrop</a>
-          <BsThreeDots className='text-lg text-white'/>
-        </div>
+        
 
         <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
           <img className="rounded-full p-2 w-14 h-14 " src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPu28vDBYKxmNkpKmXO6LntdsNzI-PibDg5dJwC92e5Oso_DRuzefex3h4rYueQx-FVM&usqp=CAU' alt='logo'/>
@@ -80,17 +81,13 @@ For Kings Only 👑</p>
           <BsThreeDots className='text-lg text-white'/>
         </div>
 
-        <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
-          <img className="rounded-full p-2 w-14 h-14 " src='https://play-lh.googleusercontent.com/peecVpF209G33-d_IKTKHvD1Dm5ss5H_sdsSiGr_YIIoK7lMQThyACX-VJSuTJuUmMI=w240-h480-rw' alt='logo'/>
-          <a href='https://gee.bio/register?k=0x2098C' className='font-semibold text-lg'>GEE</a>
-          <BsThreeDots className='text-lg text-white'/>
-        </div>
+        
 
 
       </div>
 
       <div className='pt-5 text-sm text-gray-700 w-full flex justify-center items-center'>
-        <p>The eyes is useless when the mind is blind</p>
+        <p>check here for secret information</p>
       </div>
     </div>
   );
