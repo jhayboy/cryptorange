@@ -1,13 +1,13 @@
 import {useEffect, useState} from 'react'; 
 import {BsThreeDots, BsFillBellFill} from 'react-icons/bs';
 import {RiTiktokLine} from 'react-icons/ri';
-import {TfiEmail} from 'react-icons/tfi';
-import {PiWhatsappLogo} from 'react-icons/pi';
+// import {TfiEmail} from 'react-icons/tfi';
+// import {PiWhatsappLogo} from 'react-icons/pi';
 import {TbBrandTelegram} from 'react-icons/tb';
-import {LiaDiscord} from 'react-icons/lia';
-import {BsInstagram} from 'react-icons/bs';
-import {LuTwitter} from 'react-icons/lu';
-import Data from './Dats';
+// import {LiaDiscord} from 'react-icons/lia';
+// import {BsInstagram} from 'react-icons/bs';
+// import {LuTwitter} from 'react-icons/lu';
+// import Data from './Dats';
 import './App.css';
 
 function App() {
@@ -61,17 +61,13 @@ Stay ahead of 99% of people</p>
       </div>
 
       <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
-          <img className="rounded-full p-2 w-14 h-14 " src='https://play-lh.googleusercontent.com/peecVpF209G33-d_IKTKHvD1Dm5ss5H_sdsSiGr_YIIoK7lMQThyACX-VJSuTJuUmMI=w240-h480-rw' alt='logo'/>
-          <a href='https://gee.bio/register?k=0x2098C' className='font-semibold text-lg'>GEE</a>
+          <img className="rounded-full p-2 w-14 h-14 " src='https://altcoinsbox.com/wp-content/uploads/2022/10/bybit-logo-white.jpg' alt='logo'/>
+          <a href='https://www.bybit.com/invite?ref=YV0X02' className='font-semibold text-lg'>BYBIT</a>
           <BsThreeDots className='text-lg text-white'/>
         </div>
 
       <div className='w-full flex flex-col gap-3 mt-5'>
-        <div className='hover:scale-105 w-full flex justify-between items-center px-3 py-3 bg-gray-600 bg-opacity-40 rounded-md text-white'>
-          <img className="rounded-full p-2 w-14 h-14 " src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFnVK4ONSYeJmtdyhwO33XVx9gNC1mSLJt_g&usqp=CAU' alt='logo'/>
-          <a href='https://ngawin.com/c-O312c8F7?lang=en' className='font-semibold text-lg'>Ngawin</a>
-          <BsThreeDots className='text-lg text-white'/>
-        </div>
+        
 
         
 
